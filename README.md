@@ -10,3 +10,6 @@ The three main activities I have been doing is learning Java, R, and statistics.
 
 What are the three most important tools/ strategies you use for organizing you work?
 The three strategies I use for organizing my work are thurough planning, using a calender, and prioritizing difficult tasks. 
+
+
+This is a test
